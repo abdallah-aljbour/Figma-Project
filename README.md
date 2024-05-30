@@ -35,4 +35,4 @@ Contact Us Page
     Social Media Links: Links to social media profiles.
 
 figma link :
-https://www.figma.com/design/7loevN6YdaMdj25HNVkZtz/Untitled?node-id=2-77&t=kBZ3u3sJKyv7YbIJ-0
+[https://www.figma.com/design/7loevN6YdaMdj25HNVkZtz/Untitled?node-id=2-77&t=kBZ3u3sJKyv7YbIJ-0](https://www.figma.com/design/7loevN6YdaMdj25HNVkZtz/Untitled?node-id=2-77&t=5dMXzz6RRzqq0IsO-1)
